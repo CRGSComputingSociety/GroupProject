@@ -27,6 +27,7 @@ When you're all set up (ask Abel or Oli if you need some help with that), you wi
 	* You use this after a commit to make sure your local code is up to date with everyone else's changes.
 * git push
 	* This transmits all your commits to the main branch, now everyone will get your code when they use pull.
+
 There are many others, but you probably won't need them. Yeah, everybody just commit to the main branch. I'm sure that'll work out fine :3
 
 (I now have SO MANY commits! I feel important! ~Abel)
