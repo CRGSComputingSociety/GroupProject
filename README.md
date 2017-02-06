@@ -15,9 +15,13 @@ Anyone interested in a crash course in C++, again just ask.
 
 # BANNED
 * Visual Basic
+* Scratch
+* Uncommented code, you imbecile.
+
+# GENERAL ADVICE
 * Do not confuse Java and Javascript
 * Beware the NaN Kraken
-* DO NOT CHANGE YOUR COMPILER OPTIONS! ~~(unless you REALLY, REALLY know what you're doing -- no -Ofast for you!)~~
+* DO NOT CHANGE YOUR COMPILER OPTIONS! ~~(unless you REALLY, REALLY know what you're doing -- no -Ofast for you! (unless you're using visual studio compiler inwhich case -Ox is fine :D))~~
 
 # GIT HELP
 When you're all set up (ask Abel or Oli if you need some help with that), you will only need a few commands:
